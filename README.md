@@ -1,5 +1,5 @@
 ## Welcome to Legopeeps' Github Page! 
-### My name is <ins>Jack</ins> (preferably), or Legopeeps, or Stack
+### My name is <ins>Jack</ins>, or known as Legopeeps or Stack
 I am an aspiring software engineer, studying Computer Science with Game Design.
 
 My current aim is to upskill in various areas that either interest or aid me personally day-to-day
